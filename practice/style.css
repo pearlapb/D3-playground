@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  height: 100%;
+}
+
+line.blue {
+    stroke: blue;
+    stroke-width: 2;
+}
+
+line.orange {
+    stroke: orange;
+    stroke-width: 4;
+}
